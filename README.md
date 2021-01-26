@@ -1,3 +1,2 @@
 # birthdays-reminder
-
-Build by react
+react project
